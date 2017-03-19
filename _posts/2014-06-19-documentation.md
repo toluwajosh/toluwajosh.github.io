@@ -4,10 +4,12 @@ title: "Documentation"
 description: "Instructions on how to install and customize the HMFAYSAL Notepad Theme."
 category: theme
 tags: [how-to]
-imagefeature: cover10.jpg
+imagefeature:
 ---
 
-General notes and suggestions for customizing **HMFAYSAL Notepad Theme**.
+General notes and suggestions for customizing **This Theme**.
+Originally made by [Hossain Mohd. Faysal](https://github.com/hmfaysal)
+Modified by [Joshua Owoyemi](https://github.com/toluwajosh)
 
 <section id="table-of-contents" class="toc">
   <header>

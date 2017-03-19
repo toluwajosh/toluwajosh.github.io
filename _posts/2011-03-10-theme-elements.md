@@ -5,7 +5,7 @@ description: "Just about everything you'll need to style in the theme: headings,
 modified: 2013-05-31
 category: articles
 tags: [sample post]
-imagefeature: cover6.jpg
+imagefeature:
 comments: true
 share: true
 ---

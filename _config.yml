@@ -78,7 +78,7 @@ kramdown:
 prose:
   rooturl: '_posts'
   siteurl: 'https://toluwajosh.github.io/'
-  # relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
+  relativeLinks: 'https://toluwajosh.github.io/links.jsonp'
   media: 'images'
   metadata:
     _posts:
