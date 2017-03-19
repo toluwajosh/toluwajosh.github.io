@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+Notepad is a Jekyll theme which is very simple, clean and beautiful. This theme is good for any blog.
+  
+Main Features:
 
-You can use the [editor on GitHub](https://github.com/toluwajosh/toluwajosh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+* Zurb Foundation 5 – css framework
+* Scss files with settings file
+* Fullscreen post covers with header wich will be bright or dark according to background image
+* Fast and light
+* Font Awesome
+* Disqus comments integration
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can set post image covers by using only Kramdown narkdown, just place something like this: `![cover-image](http://path-to-your-image.jpg)`
 
-### Markdown
+Credits:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Zurb Foundation 5 [http://foundation.zurb.com/](http://foundation.zurb.com/)
+* Font Awesome [http://fontawesome.io](http://fontawesome.io)
+* Google fonts [http://www.google.com/fonts](http://www.google.com/fonts)
+* Background check [http://kennethcachia.com/background-check](http://kennethcachia.com/background-check)
+* Codrops article: [http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/](http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/)
+* There are also tools like jQuery, Modernizr, Normalize.
 
-```markdown
-Syntax highlighted code block
+If you'd like to give me credit somewhere on your blog or tweet a shout out to [@hmfaysal](https://twitter.com/hmfaysal), that would be pretty sweet.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/toluwajosh/toluwajosh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Warm Regards and Stay Creative,  
+Hossain Mohd. Faysal

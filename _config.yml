@@ -1,41 +1,157 @@
-# Name of your blog (this will show up at the top of your page and in the RSS feed)
-name: Joshua's Lab
+title:            The Machine-Learning Journey
+description:      "Projects and Experiences"
+logo:             logo.png
+# disqus_shortname: hmfaysal
+share:            true
+dropcap:			true
+# Change url to your domain. Leave localhost server or blank when working locally.
+# or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
+# whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
+url:        	  https://toluwajosh.github.io/
 
-# Short description (goes below the title; it will also be used in the RSS feed)
-description: Personal Blog about Projects and codes
+# Owner/author information
+owner:
+  name:           Joshua Owoyemi
+  # avatar:         hmfaysal.jpg
+  email:          tjosh.owoyemi@gmail.com
+  # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
+  description:    Live Life Large
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        toluwajosh
+  # facebook:       hmfaysal
+  github:         toluwajosh      
+  instagram:      toluwajosh
+  # For Google Authorship https://plus.google.com/authorship
+  # google_plus:    https://plus.google.com/u/0/102602916593522619858
 
-# Your name, as you want it to appear underneath each post and in the footer
-author: Joshua Owoyemi
+# Analytics and webmaster tools stuff goes here
+# google_analytics:   UA-39365944-7
+# google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+# bing_verify:         
 
-# Your email if you want it to be linked on the contact page
-author_email: tjosh.owoyemi@gmail.com
+# Links to include in footer navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+    external: false
+    icon: home
+  - title: Featured Posts
+    url: /featured
+  - title: Categories
+    url: /categories
+  - title: About
+    url: /about
 
-# The directory for category index pages. Change it to something else if
-# for example you want links like /categories/category1 instead of /category1
-category_dir: /
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# timezone:    Asia/Dhaka
+future:      true
+highlighter: pygments
+markdown:    kramdown
+paginate:    5
+paginate_path: "page:num"
 
-# Uncomment if you are planning to run the blog in a subdirectory
-# Note - if you enable this, and attempt to view your site locally you have to use the baseurl in your local path.
-# Example, you must use http://localhost:4000/path/to/blog
-#baseurl: /path/to/blog 
-baseurl: 
+# # https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
 
-# The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: https://toluwajosh.github.io/
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
 
-#### Under the Hood Stuff #####
+  # coderay:
+  #   coderay_line_numbers: 
+  #   coderay_line_numbers_start: 1
+  #   coderay_tab_width: 4
+  #   coderay_bold_every: 10
+  #   coderay_css: class
 
-# Use rdiscount as the markdown engine because it generates html5 compliant code for stuff like footnotes
-# If you use maroku (default engine) some of your generated pages may not validate or lint as html5
-# If you don't have it install it via gem install rdiscount
-markdown: rdiscount
+prose:
+  rooturl: '_posts'
+  siteurl: 'https://toluwajosh.github.io/'
+  # relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
+  media: 'images'
+  metadata:
+    _posts:
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"
+      - name: "layout"
+        field:
+          element: "hidden"
+          label: "Layout"
+          value: "post"
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
+          value: "An Awesome Headline!"
+      - name: "description"
+        field:
+          element: "text"
+          label: "Description"
+          placeholder: "Enter Post Description"
+      - name: "headline"
+        field:
+          element: "text"
+          label: "beadline"
+          placeholder: "Enter Post Headline"
+      - name: "modified"
+        field:
+          element: "text"
+          label: "Has this page been modified?"
+          placeholder: "YYYY-MM-DD"
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Add categories"
+          placeholder: "Choose categories"
+          value: personal
+          options:
+            - name: "Personal"
+              value: personal
+            - name: "Engineering"
+              value: engineering
+            - name: "Physics"
+              value: physics
+            - name: "Psychology"
+              value: psychology
+            - name: "Interesting"
+              value: interesting
+            - name: "Web-Development"
+              value: webdevelopment
+          alterable: true
+      - name: "tags"
+        field:
+          element: "text"
+          label: "Tags"
+          placeholder: "Enter tags, separated by spaces"
+      - name: "imagefeature"
+        field:
+          element: "text"
+          label: "Featured Image"
+          placeholder: "somefile.jpg"
+      - name: "mathjax"
+        field:
+          element: "checkbox"
+          label: "MathJax"
+          value: false
+      - name: "featured"
+        field:
+          element: "checkbox"
+          label: "Featured?"
+          value: false
+      - name: "comments"
+        field:
+          element: "checkbox"
+          label: "Comments"
+          value: false
 
-# Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
-permalink: pretty
 
-# How many articles do you wish to appear on the front page:
-paginate: 5
-
-# Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
-theme: jekyll-theme-minimal
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
