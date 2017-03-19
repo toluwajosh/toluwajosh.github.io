@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+Welcome to my github page repository. I made this to document my personal projects and and experiences in form of a blog. I hope that other people can also find it useful, for inspiration or learning.
 
-You can use the [editor on GitHub](https://github.com/toluwajosh/toluwajosh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am fairly new to coding, so I and trying to learn as much as I can, as fast as I can. Find out more about [me in my bio](https://github.com/toluwajosh). (I will update as time goes on)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###About this theme: Notepad
 
-### Markdown
+Notepad is a Jekyll theme which is very simple, clean and beautiful. This theme is good for any blog.
+  
+Main Features:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Zurb Foundation 5 – css framework
+* Scss files with settings file
+* Fullscreen post covers with header wich will be bright or dark according to background image
+* Fast and light
+* Font Awesome
+* Disqus comments integration
 
-```markdown
-Syntax highlighted code block
+You can set post image covers by using only Kramdown narkdown, just place something like this: `![cover-image](http://path-to-your-image.jpg)`
 
-# Header 1
-## Header 2
-### Header 3
+Credits:
+* Hossain Mohd. Faysal [@hmfaysal](https://twitter.com/hmfaysal)
+* Zurb Foundation 5 [http://foundation.zurb.com/](http://foundation.zurb.com/)
+* Font Awesome [http://fontawesome.io](http://fontawesome.io)
+* Google fonts [http://www.google.com/fonts](http://www.google.com/fonts)
+* Background check [http://kennethcachia.com/background-check](http://kennethcachia.com/background-check)
+* Codrops article: [http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/](http://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/)
+* There are also tools like jQuery, Modernizr, Normalize.
 
-- Bulleted
-- List
+You may use this theme as is or modify as you wish.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/toluwajosh/toluwajosh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Cheers.
+Joshua Owoyemi
