@@ -47,8 +47,8 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 # timezone:    Asia/Dhaka
 future:      true
-highlighter: pygments
-markdown:    kramdown
+highlighter: rouge
+# markdown:    kramdown
 paginate:    5
 paginate_path: "page:num"
 
