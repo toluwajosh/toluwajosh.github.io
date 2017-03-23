@@ -27,7 +27,7 @@ chart: true
 {% endfor %}
 
 
-My name is **Toluwaleke Joshua Owoyemi**, and this is my personal blog. I am a PhD student at the [Hashimoto-Kagami Laboratory](http://www.ic.is.tohoku.ac.jp/en/) of Tohoku University. My research is about application of machine learning to computer vision and robot manipulation. I am also interest in self-driving cars, so I am taking the [Udacity course](https://www.udacity.com/drive). In the past two years I've been learning a lot of things. I am currently learning web development, so this is like my test site.  Please follow my other channels and give a shoutout. Cheers.
+My name is **Toluwaleke Joshua Owoyemi**, I like to shorten to Joshua Owoyemi, and this is my personal blog. I am a PhD student at the [Hashimoto-Kagami Laboratory](http://www.ic.is.tohoku.ac.jp/en/) of Tohoku University. My research is about application of machine learning to computer vision and robot manipulation. I am also interest in self-driving cars, so I am taking the [Udacity course](https://www.udacity.com/drive). In the past two years I've been learning a lot of things. I am currently learning web development, so this is like my test site.  Please follow my other channels and give a shoutout. Cheers.
 
 <div class="social-icons">
         
