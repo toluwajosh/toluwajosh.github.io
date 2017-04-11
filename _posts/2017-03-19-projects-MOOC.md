@@ -5,7 +5,7 @@ description: Udacity Nanodegree Project 4
 headline: 
 modified: 2017-03-19
 category: Projects
-tags: [projects, MOOC]
+tags: [Projects, MOOC]
 imagefeature: 
 mathjax: 
 chart: 
