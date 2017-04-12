@@ -13,10 +13,7 @@ comments: true
 featured: false
 ---
 
-[//]: # (Image References)
-[image1]: ./images/lane_lines/dachcam_view.jpg "View from camera mounted in car."
-
-In systems where we need to obtain continuous or dynamic measurements from sensors, there is usually a challenge that the sensors' measurements are uncertian due to reasons which include, but are not limited to, errors from sensor, discrepant measurement from multiple sensors. Kalman filter helps us to obtain more reliable estimates from a sequence observed measurements. This post is meant to give a general idea of the Kalman filter in a simplistic and concise manner. It however requires a little familiarity with the subject, but I will do a little introduction.
+In systems where we need to obtain continuous or dynamic measurements from sensors, there is usually a challenge that the sensors' measurements are uncertain due to reasons which include, but are not limited to, errors from sensor, discrepant measurement from multiple sensors. Kalman filter helps us to obtain more reliable estimates from a sequence observed measurements. This post is meant to give a general idea of the Kalman filter in a simplistic and concise manner. It however requires a little familiarity with the subject, but I will do a little introduction.
 
 Suppose we want to track the position of an obstacle ahead of a robot, we would like to be certain about the measurement obtained from the range sensor on the robot because we would not want the robot to collide into an obstacle while it 'thinks' the obstacle is still far ahead. Depending on the inaccuracy or noise present in our sensor, we might get a reading that looks like this:
 
@@ -91,7 +88,7 @@ $$
 P' = F'PF^T + Q
 $$
 
-Where $Q$ is the process noise covariance matrix, which is used to keep the state covariance matrix from becoming too small or going to zero
+Where $Q$ is the process noise covariance matrix, which is used to keep the state covariance matrix from becoming too small or going to zero.
 
 #### Kalman Gain
 
@@ -113,58 +110,9 @@ In our case of tracking the position and velocity of an object, we could use las
 <figcaption>Extended Kalman Filter</figcaption>
 </figure>
 
-<!-- $$\mathbf{X} = \left[\begin{array}
-{rrr}
-1 & 2 & 3 \\
-4 & 5 & 6 \\
-7 & 8 & 9
-\end{array}\right]
-$$ -->
-
-
-<!-- attempt to use shortcode from afam website -->
-<!-- <blog-post-photo photo_url="{{ site.url }}/images/lane_lines/dashcam_view.jpg" photo_title="Cover" photo_title="Pre-trip Orientation" width="700"> -->
-
-<!-- | Colour 		| Threshold Values   										| 
-|:-------------:|:--------------------------------------------------------:	| 
-| RGB White     | Lower = {100, 100, 200}, Upper = {255, 255, 255}       	| 
-| RGB Yellow 	| Lower = {225, 180, 0}, Upper = {255, 255, 170} 			|
-| HLS Yellow 	| Lower = {20, 120, 80}, Upper = {45, 200, 255}     		| -->
-
-
-<!-- <div class="row">
-    <div class="large-12 columns">
-        <table>
-  <thead>
-    <tr>
-      <th width="200">Colour</th>
-      <th width="150">Threshold Values</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>RGB White</td>
-      <td>Lower = {100, 100, 200}, Upper = {255, 255, 255}</td>
-    </tr>
-    <tr>
-      <td>RGB Yellow</td>
-      <td>Lower = {100, 100, 200}, Upper = {255, 255, 255}</td>
-    </tr>
-    <tr>
-      <td>HLS Yellow</td>
-      <td>Lower = {20, 120, 80}, Upper = {45, 200, 255}</td>
-    </tr>
-  </tbody>
-</table>
-    </div>
-</div>
- -->
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/B16Fb0fPzi8" frameborder="0" allowfullscreen></iframe> -->
-
 ---
 
-The EKF is a very broad and useful topic which cannot be done justice to in a single post. I have however highlighted areas which I personally found a bit confusing when working on the algorithm for a project on the SDCND program. Check the following links for more detailed explanation of the subject.
+The EKF is a very broad and useful topic which cannot be done justice to in a single post. While I jumped many steps or procedures, I have however highlighted areas which I personally found a bit confusing when working on the algorithm for a project on the [Udacity SDCND](https://www.udacity.com/drive) program. Check the following links for more detailed explanation on the Kalman filter.
 
 - [The Extended Kalman Filter: An Interactive Tutorial for Non-Experts](https://home.wlu.edu/~levys/kalman_tutorial/)
 
@@ -175,22 +123,3 @@ If you would like to know about the project I applied this algorithm on, check [
 If you find any inconsistency in my post, please feel free to point out in the comments. I'm still a learner.
 
 Thanks for reading.
-
-
-<!-- Original post for 2 years in ML -->
-<!-- I started my journey into Machine Learning (ML) about two years ago when I was a research student getting ready to start a PhD in System Information Science. For me, this was new area since I had a background in Mechanical Engineering, so I had to bring myself up to speed with the skills that I would need during my research. 
-
-A this time, I was an absolute newbie in ML. I was new to python programming, and had very minimal knowledge in computer science. However, I was determined to learn all I needed. 
-
-To quickly introduce the subject of ML. I would like to define ML in my own way
-
-
-After my first meeting with my supervisor, I knew I would have a lot of learning to do. First I had to take an intensive course in Japanese Language which lasted for 4 months. At this time, I was not able to do many other things, so I actually didn't start learning much about ML till after the Japanese Language course. However, I was able to read parts of the book [Machine Learning with python](). This was my very first introduction ML. After a while into the book and doing some of the practices, I knew I needed to take a course in python for a better knowledge of the language. I took the online [Edx]() course [Introduction to Computer Science with Python](). I soon understood the field of ML was constantly changing so I needed a more robust background. So I took the course [Introduction to ML]() by [Andrew Ng]() which is considered the quintessential course for introduction to ML. 
-
-
-
-How do I rate myself now
-
-I wrote a post about 'how to learn something new'. [Check it out here]().
-
-If you would also like to know about how I came to Japan to start a research in ML, [You can the full story here]().  -->
