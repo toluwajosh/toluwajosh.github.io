@@ -38,7 +38,7 @@ In this post I will share how I am able to find lane lines from an image that re
 
 Here is a typical image from the camera;
 
-<img src="{{ site.url }}/images/lane_lines/dashcam_view.jpg" alt="View from camera mounted in car.">
+<img src="{{ site.url }}/images/lane_lines/dashcam_view.jpg" alt="View from camera mounted in car."><figcaption> let it be </figcaption>
 
 Our objective is to be able to effectively find the lane lines in front of the car. A quick observation shows that most lane lines are either yellow or white. So we will use this information to find places in the image that are lane lines.
 

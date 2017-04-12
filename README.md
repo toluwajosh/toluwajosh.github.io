@@ -2,7 +2,7 @@ Welcome to my github page repository. I made this to document my personal projec
 
 I am fairly new to coding, so I and trying to learn as much as I can, as fast as I can. Find out more about [me in my bio](https://github.com/toluwajosh). (I will update as time goes on)
 
-###About this theme: Notepad
+### About this theme: Notepad
 
 Notepad is a Jekyll theme which is very simple, clean and beautiful. This theme is good for any blog.
   
