@@ -1,5 +1,4 @@
-_site/
-.sass-cache/
-.jekyll-metadata
-node_modules
-old_ab_old.md
+_site
+.sass-cache
+Gemfile.lock
+*.gem
