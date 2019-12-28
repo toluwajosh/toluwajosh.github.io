@@ -14,9 +14,9 @@ Download his [full CV](./storage/joshua_owoyemi_full_cv.pdf).
 
 ## Current Roles
 
-**Machine learning and Software Engineer** at [ZMP Inc](https://www.zmp.co.jp/) Tokyo, Japan. Development of deep learning-based software solution for Autonomous Car's perception, scene understanding, and behaviour control.
+**Machine learning and Software Engineer** at [ZMP Inc](https://www.zmp.co.jp/) Tokyo, Japan; Developing deep learning-based software solutions for Autonomous Car's perception, scene understanding, and behaviour control.
 
-**Content Creator and Online Coach**. [Youtube](https://www.youtube.com/channel/UCdNgkkleUb_npdGLgzzh_2g) videos [Podcasts](https://anchor.fm/joshua-owoyemi) focusing on Technology and Education.
+**Online Content Creator, Tutor and Consultant**; Delivering [Videos](https://www.youtube.com/channel/UCdNgkkleUb_npdGLgzzh_2g) and [Podcasts](https://anchor.fm/joshua-owoyemi) focusing on Technology and Education.
 
 <!-- See past roles.. -->
 
@@ -34,7 +34,7 @@ Cherdsak Kingkan, **Joshua Owoyemi**, Koichi Hashimoto (2018). “Point Attentio
 
 * Robot Control and Manipulation for Liquid Pouring ([Video](https://youtu.be/oCoAv5VNHO0)): This involved developing a point cloud gesture-based robot operation and a manipulation strategy for a robot arm to pour liquids without spilling. Simulation in with ROS and Gazebo to validate pouring strategy.
 
-* Upper Body Point Cloud Gestures Dataset ([UBPG](https://github.com/toluwajosh/ubpg)): This a point cloud based gesture dataset captured by the Kinect camera using the Point Cloud Library. It contains 9 classes of gesture with 1 class for No Gesture.
+* Upper Body Point Cloud Gestures Dataset ([UBPG](https://github.com/toluwajosh/ubpg)): This is a point cloud based gesture dataset captured by the Kinect camera using the Point Cloud Library. It contains 9 classes of gesture with 1 class for No Gesture. This dataset capture classes of dynamic gestures through a 3 dimensional data representation posing challenges of patter recognition in the spatial and temporal space. It is free to be used for research purposes.
 
 <!-- See more.. -->
 
