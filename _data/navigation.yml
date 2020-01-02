@@ -4,7 +4,7 @@
 #   link: /projects.html
 - name: Blog
   link: /blog.html
-# - name: Courses
-#   link: /courses.htm
+- name: DL Course
+  link: /dl_course.html
 - name: Podcast
   link: /podcast.html

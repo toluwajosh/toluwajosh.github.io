@@ -4,10 +4,14 @@
 
 - [X] Create pages navigation
 - [X] Create blogs page
-- [ ] Post first blog post
+- [X] Post first blog post
+- [X] Add commenting
+- [ ] Hide page navigation link on page
 
 ## DL Style Transfer Course
 
-- [ ] Create general outline and milestones
-- [ ] Create course development page 
+- [X] Create general outline and milestones
+- [X] Create course development page 
+- [ ] Create working app from track 1 output
+- [ ] Swap out parts of track with more detailed modules
 - [ ] 

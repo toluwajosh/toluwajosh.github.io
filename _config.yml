@@ -5,8 +5,9 @@ google_analytics:
 theme: jekyll-theme-slate
 
 
-disqus_shortname: https-toluwajosh-github-io
-url:        	  https://toluwajosh.github.io/
+disqus:
+  shortname: https-toluwajosh-github-io-1
+  url: https://toluwajosh.github.io/
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-93933771-1
