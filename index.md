@@ -40,7 +40,7 @@ Cherdsak Kingkan, **Joshua Owoyemi**, Koichi Hashimoto (2018). “Point Attentio
 
 ## Presentations and Talks
 
-* Getting Started: Hardware and Software ([Video](https://youtu.be/6hkSMOQQBrE)). A Presentation at the TEDx Tohoku University AI Salon Sendai Japan.
+* Getting Started: Hardware and Software ([Video](https://youtu.be/6hkSMOQQBrE)). A Presentation at the TEDx Tohoku University AI Salon Sendai, Japan.
 
 * Fast Motion Inference Learning with One-Shot Learning from Class Embedding. The 5th Case Western Reserve University - Tohoku University Joint Workshop, Sendai, Japan, August 2nd-3rd, 2018.
 
