@@ -3,3 +3,16 @@ description: PhD, Perception and Deep Learning Engineer.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
+
+
+disqus_shortname: https-toluwajosh-github-io
+url:        	  https://toluwajosh.github.io/
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   UA-93933771-1
+# google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify: C0CB371ACFA5EFD6FB47169BFFBA8217
+
+# collections:
+#   authors:
