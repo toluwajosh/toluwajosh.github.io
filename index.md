@@ -2,11 +2,11 @@
 layout: default
 ---
 
-![Avatar](./storage/avatar_square_small.jpg)
+![Avatar](media/avatar_square_small.jpg)
 
 Joshua Owoyemi is a PhD, Autonomous Driving Perception and Deep Learning Engineer. This website is a collection of his works and portfolio.
 
-Download his [full CV](./storage/joshua_owoyemi_full_cv.pdf).
+Download his [full CV](media/joshua_owoyemi_full_cv.pdf){:target="_blank"}.
 
 ## Profile Links
 
