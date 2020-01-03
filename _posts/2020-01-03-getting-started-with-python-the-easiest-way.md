@@ -11,7 +11,7 @@ About 4 years ago when I wanted to start learning Python Programming, the top qu
 ![banner](/media/python_post_banner.jpeg)
 
 
-In the beginning, I set out to write a short and straight-to-the-point article but I quickly found out there are so many explanation to do. If you just want the action, you can skip to the "Procedures" section. However, I encourage you to keep reading as this will give the needed foundation for the reason I am giving the recommended steps.
+In the beginning, I set out to write a short and straight-to-the-point article but I quickly found out there are so many explanation to do. If you just want the action, you can skip to the [Procedure](#procedure) section. However, I encourage you to keep reading as this will give the needed foundation for the reason I am giving the recommended steps.
 For a programming language like Python, new learners soon realize that there are many concepts and hurdles they need to overcome in order to begin to appreciate the language (as with other programming languages). One of such is Packages, or Libraries. This becomes more difficult when the learner has no programming experience. It is therefore necessary to have a little understanding of how the programming language environment works in order to get the best out of it with little 'head-banging'.
 
 ## Packages
