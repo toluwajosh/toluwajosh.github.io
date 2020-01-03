@@ -6,8 +6,8 @@
 - [X] Create blogs page
 - [X] Post first blog post
 - [X] Add commenting
-- [ ] Add google analytics
-- [ ] Add Bing verify
+- [X] Add google analytics
+- [X] Add Bing verify
 - [ ] Hide page navigation link on page
 
 ## DL Style Transfer Course
