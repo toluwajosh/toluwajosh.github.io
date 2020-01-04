@@ -26,7 +26,7 @@ These are my findings.
 
 1. Most of the software claim to be free but upsell you on advertisements and special features. Only DaVinci Resolve and Windows Video Editor are free in the true sense.
 
-2. None of the software is truly [cross-platform](https://www.techopedia.com/definition/17056/cross-platform){:target="_blank"}. Only DaVinci Resolve comes close, but currently have issues with importing mp4 clips. KdenLive is a good alternative, and it is open source.
+2. None of the software is truly [cross-platform](https://www.techopedia.com/definition/17056/cross-platform){:target="_blank"}. Only DaVinci Resolve comes close, but currently have issues with importing mp4 clips on Linux. KdenLive is a good alternative, and it is open source.
 
 3. I found InShot to be the best, non-intrusive, easy-to-use for the Android platform.
 
