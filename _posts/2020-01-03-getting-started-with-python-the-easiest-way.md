@@ -40,7 +40,7 @@ Finally, here are the steps to the path I recommend for getting started with pyt
 ![anaconda_navigator](/media/anaconda_navigator.jpeg)
 *Anaconda Navigator*
 
-Anaconda NavigatorThat is pretty much all you need as beginner. There are other considerations such as the `IDEs` and `environments`, which you will have to deal with sooner or later but with this down, those are more of a choice for convenience and efficiency. For me, the image below gives an overview of the Python programming "getting started" map.
+That is pretty much all you need as beginner. There are other considerations such as the `IDEs` and `environments`, which you will have to deal with sooner or later but with this down, those are more of a choice for convenience and efficiency. For me, the image below gives an overview of the Python programming "getting started" map.
 
 ![getting_started_map](/media/getting_started_map.png)
 *The "Getting Started" map*
