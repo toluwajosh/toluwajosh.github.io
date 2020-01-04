@@ -4,10 +4,10 @@ author: Joshua Owoyemi
 title: About Free Video Editors
 comments: true
 tag: Quick
-excerpt: I have spent some considerable time in the last 3 days looking for a quick, easy-to-use and FREE video editor. I have tested most of the recommended options on the internet. These are my findings.
+excerpt: I have spent some considerable time in the past 3 days looking for a quick, easy-to-use and FREE video editor. I have tested most of the recommended options on the internet. These are my findings.
 ---
 
-I have spent some considerable time in the last 3 days looking for a quick, easy-to-use and FREE video editor. I have tested most of the recommended options on the internet;
+I have spent some considerable time in the past 3 days looking for a quick, easy-to-use and FREE video editor. I have tested most of the recommended options on the internet;
 
 - [Filmora](https://filmora.wondershare.com/){:target="_blank"},
 - [KdenLive](https://kdenlive.org/en/){:target="_blank"},
