@@ -13,7 +13,8 @@
 ## DL Style Transfer Course
 
 - [X] Create general outline and milestones
-- [X] Create course development page 
+- [X] Create course development page
+- [X] Run simple demo from base repository
 - [ ] Create working app from track 1 output
 - [ ] Swap out parts of track with more detailed modules
 - [ ] 

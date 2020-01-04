@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Deep Learning Style Transfer from Scratch
+# Colorizing Images with Deep Learning
 
 This is a project based course that teaches style transfer using [deep learning](https://en.wikipedia.org/wiki/Deep_learning){:target="_blank"} and implemented in the [Pytorch](https://pytorch.org/){:target="_blank"} framework.
 
