@@ -3,6 +3,7 @@ layout: post
 author: Joshua Owoyemi
 title: Getting Started with Python the Easiest Way
 comments: true
+excerpt: About 4 years ago when I wanted to start learning Python Programming, the top question on my mind was, "How do I get started quickly?". Over the years, many things have changed about Python programming itself. It has become more useful and popular for general programming and most especially for Data Science, Machine Learning and Deep Learning. As the interest in the programming language have been increasing over the years, the question is still relevant - "How do I get started with Python Programming in the easiest way?". I will try my best to answer that question in this post.
 ---
 About 4 years ago when I wanted to start learning Python Programming, the top question on my mind was, "How do I get started quickly?". Over the years, many things have changed about Python programming itself. It has become more useful and popular for general programming and most especially for Data Science, Machine Learning and Deep Learning. As the interest in the programming language have been increasing over the years, the question is still relevant - "How do I get started with Python Programming in the easiest way?". I will try my best to answer that question in this post.
 
