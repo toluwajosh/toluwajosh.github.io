@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Joshua Owoyemi
-title: About Free Video Editors
+title: Best Free Video Editors, 2020
 comments: true
 tag: Quick
 excerpt: I have spent some considerable time in the past 3 days looking for a quick, easy-to-use and FREE video editor. I have tested most of the recommended options on the internet. These are my findings.
