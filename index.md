@@ -22,13 +22,13 @@ Download his [full CV](media/joshua_owoyemi_full_cv.pdf){:target="_blank"}.
 
 ## Selected Publications
 
-**Joshua Owoyemi**, Naoya Chiba, Koichi Hashimoto (2019) Discriminative Recognition of Point Cloud Gesture Classes Through One-Shot Learning 2019 IEEE International Conference on Robotics and Biomimetics, Dali, Yunnan, China, 2019.
+**Joshua Owoyemi**, Naoya Chiba, Koichi Hashimoto (2019) Discriminative Recognition of Point Cloud Gesture Classes Through One-Shot Learning. 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), Dali, China, 2019, pp. 2304-2309. ([IEEE Xplore](https://ieeexplore.ieee.org/document/8961778))
 
 **Joshua Owoyemi**, Koichi Hashimoto (2018). Spatiotemporal Learning of Dynamic Gestures from 3D Point Cloud Data. 2018 IEEE International Conference on Robotics and Automation (ICRA) May 21-25, 2018, Brisbane, Australia. pp.5929-5934, 2018. ([https://arxiv.org/abs/1804.08859v1](https://arxiv.org/abs/1804.08859v1))
 
 Cherdsak Kingkan, **Joshua Owoyemi**, Koichi Hashimoto (2018). “Point Attention Network for Gesture Recognition Using Point Cloud Data”, 29th British Machine Vision Conference, September 3-6, Newcastle, England, pp.118.1-118.13, 2018. *1st and 2nd Author have equal contribution*. ([pdf](http://bmvc2018.org/contents/papers/0427.pdf))
 
-**Joshua Owoyemi**, Koichi Hashimoto (2017). Learning Human Motion Intention with 3D Convolutional Neural Network. 2017 IEEE International Conference on Mechatronics and Automation August 6-9, Takamatsu, Japan. pp.1810-1815, 2017. ([ieee xplore](https://ieeexplore.ieee.org/document/8016092))
+**Joshua Owoyemi**, Koichi Hashimoto (2017). Learning Human Motion Intention with 3D Convolutional Neural Network. 2017 IEEE International Conference on Mechatronics and Automation August 6-9, Takamatsu, Japan. pp.1810-1815, 2017. ([IEEE Xplore](https://ieeexplore.ieee.org/document/8016092))
 
 ## Other Projects
 
