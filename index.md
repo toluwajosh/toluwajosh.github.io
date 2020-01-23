@@ -10,7 +10,7 @@ Download his [full CV](media/joshua_owoyemi_full_cv.pdf){:target="_blank"}.
 
 ## Profile Links
 
-| [LinkedIn](https://www.linkedin.com/in/joshua-owoyemi/) | [GitHub](https://github.com/toluwajosh) | [Twitter](https://twitter.com/toluwajosh) | [Facebook](https://www.facebook.com/toluwajosh) | [Instagram](https://www.instagram.com/toluwajosh/) | [Medium](https://medium.com/@tjosh.owoyemi) |
+| [LinkedIn](https://www.linkedin.com/in/joshua-owoyemi/) | [GitHub](https://github.com/toluwajosh) | [Twitter](https://twitter.com/toluwajosh) | [Facebook](https://www.facebook.com/toluwajosh) | [Instagram](https://www.instagram.com/toluwajosh/) |
 
 ## Current Roles
 
