@@ -22,7 +22,7 @@ Download his [full CV](media/joshua_owoyemi_full_cv.pdf){:target="_blank"}.
 
 ## Selected Publications
 
-**Joshua Owoyemi**, Naoya Chiba, Koichi Hashimoto (2019) Discriminative Recognition of Point Cloud Gesture Classes Through One-Shot Learning. 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), Dali, China, 2019, pp. 2304-2309. ([IEEE Xplore](https://ieeexplore.ieee.org/document/8961778))
+**Joshua Owoyemi**, Naoya Chiba, Koichi Hashimoto (2019). Discriminative Recognition of Point Cloud Gesture Classes Through One-Shot Learning. 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), Dali, China, 2019, pp. 2304-2309. ([IEEE Xplore](https://ieeexplore.ieee.org/document/8961778))
 
 **Joshua Owoyemi**, Koichi Hashimoto (2018). Spatiotemporal Learning of Dynamic Gestures from 3D Point Cloud Data. 2018 IEEE International Conference on Robotics and Automation (ICRA) May 21-25, 2018, Brisbane, Australia. pp.5929-5934, 2018. ([https://arxiv.org/abs/1804.08859v1](https://arxiv.org/abs/1804.08859v1))
 
