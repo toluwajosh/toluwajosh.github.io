@@ -11,8 +11,8 @@ These are the links to the Podcast and Video post on the 6 reasons to learn prog
 
 ## Podcast Link
 
-<iframe src="https://anchor.fm/toluwajosh/embed/episodes/6-Reasons-To-Learn-Programming-in-2020-ea1keb" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/toluwajosh/embed/episodes/6-Reasons-To-Learn-Programming-in-2020-ea1keb" height="80px" width="320px" frameborder="0" scrolling="no"></iframe>
 
 ## YouTube Link
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GpuwZOT1xM4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/GpuwZOT1xM4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
