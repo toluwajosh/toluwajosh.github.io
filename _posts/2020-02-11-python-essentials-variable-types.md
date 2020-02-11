@@ -11,8 +11,7 @@ excerpt: In this video post I talk about the first essential elements in python 
 
 In this video post I talk about the first essential elements in python programming - the variable types. This will help to understand the basics of python variables and how to use them.
 
-<iframe width="355" height="210" src="https://www.youtube.com/embed/videoseries?list=PLNEw_VEWvAEplEA3FWLbaLAMmwjj2K1ph" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="355" height="210" src="https://www.youtube.com/embed/Sh4NLTY2OTQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### [Python Interactive Environment](https://docs.microsoft.com/en-us/visualstudio/python/python-interactive-repl-in-visual-studio?view=vs-2019)
 
