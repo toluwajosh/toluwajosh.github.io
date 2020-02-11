@@ -157,3 +157,8 @@ The following are operations for comparing variables. Results are either `True` 
 | x < y     | Check if x is less than y                  |
 | x <= y    | Check if x is less than or equal to y      |
 
+
+## Useful Resources and Bibliography
+
+1. https://www.pythonlikeyoumeanit.com/index.html
+2. John M. Zelle, Python Programming: An Introduction to Computer Science. Franklin, Beedle & Associates, Inc., 2004
