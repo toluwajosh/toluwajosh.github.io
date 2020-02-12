@@ -7,8 +7,6 @@ tag: Python Programming
 excerpt: In this video post I talk about the first essential elements in python programming - the variable types. This will help to understand the basics of python variables and how to use them.
 ---
 
-## Python Programming Essentials - Variables and Types
-
 In this video post I talk about the first essential elements in python programming - the variable types. This will help to understand the basics of python variables and how to use them.
 
 <iframe width="355" height="210" src="https://www.youtube.com/embed/Sh4NLTY2OTQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
