@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Joshua Owoyemi
-title: Python Essentials - Variables and Types
+title: Python Essentials - Iterables and Functions
 comments: true
 tag: Python Programming
 excerpt: In this video, I talk about Iterables such as Lists, Tuples and Strings. I also introduce Functions as an element that makes programming more efficient and reusable.
