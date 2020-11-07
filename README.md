@@ -1,4 +1,44 @@
-# The Slate theme
+# Personal Project Website for Joshua Owoyemi
+
+The website is at [toluwajosh.github.io](https://toluwajosh.github.io/).
+
+> See below the documentation for the website theme
+---
+
+## Setting up for development and local server
+
+> This only works for Ubuntu. See [here](https://jekyllrb.com/docs/) for general instructions.
+
+- Install prerequisites
+
+  - ```bash
+    sudo apt-get install ruby-full build-essential zlib1g-dev
+    ```
+
+  - Avoid installing RubyGems packages (called gems) as the root user. Instead, set up a gem installation directory for your user account. The following commands will add environment variables to your ~/.bashrc file to configure the gem installation path:
+
+    ```bash
+    echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+    echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+    echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+    source ~/.bashrc
+    ```
+
+- Install the jekyll and bundler gems
+
+  - ```bash
+    gem install jekyll bundler
+    ```
+
+- Build the site and make it available on a local server.
+
+  - ```bash
+    bundle exec jekyll serve
+    ```
+
+- Browse to [http://localhost:4000](http://localhost:4000)
+
+## The Slate theme
 
 [![Build Status](https://travis-ci.org/pages-themes/slate.svg?branch=master)](https://travis-ci.org/pages-themes/slate) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-slate.svg)](https://badge.fury.io/rb/jekyll-theme-slate)
 

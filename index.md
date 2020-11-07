@@ -14,13 +14,17 @@ Download his [full CV](media/joshua_owoyemi_full_cv.pdf){:target="_blank"}.
 
 ## Current Roles
 
-**Machine learning and Software Engineer** at [ZMP Inc](https://www.zmp.co.jp/) Tokyo, Japan; Developing deep learning-based software solutions for Autonomous Car's perception, scene understanding, and behaviour control.
+**AI Engineer** at [ZMP Inc](https://www.zmp.co.jp/) Tokyo, Japan; Developing and deploying deep learning models for Computer Vision for tasks such as Visual Inspection in Manufacturing, Ego vehicle awareness in self driving cars, Anomaly detection in sensor data, 3D object recognition from images and Satellite image analysis.
 
-**Online Content Creator, Tutor and Consultant**; Delivering [Videos](https://www.youtube.com/channel/UCdNgkkleUb_npdGLgzzh_2g) and [Podcasts](https://anchor.fm/joshua-owoyemi) focusing on Technology and Education.
+**Online Content Creator, and Consultant**; Delivering [Videos](https://www.youtube.com/channel/UCdNgkkleUb_npdGLgzzh_2g) and [Podcasts](https://anchor.fm/joshua-owoyemi) focusing on Technology and Education.
+
+> See my [LinkedIn profile](https://www.linkedin.com/in/joshua-owoyemi/) for previous roles.
 
 <!-- See past roles.. -->
 
 ## Selected Publications
+
+Ayomide Owoyemi, **Joshua Owoyemi**, Adenekan Osiyemi, Andrew Dallas Boyd (2020). Artificial Intelligence for Healthcare in Africa. Frontiers in Digital Health, 2, 6. [DOI](https://doi.org/10.3389/fdgth.2020.00006)
 
 **Joshua Owoyemi**, Naoya Chiba, Koichi Hashimoto (2019). Discriminative Recognition of Point Cloud Gesture Classes Through One-Shot Learning. 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), Dali, China, 2019, pp. 2304-2309. ([IEEE Xplore](https://ieeexplore.ieee.org/document/8961778))
 
