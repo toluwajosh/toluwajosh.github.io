@@ -14,7 +14,7 @@ Download his [full CV](media/joshua_owoyemi_full_cv.pdf){:target="_blank"}.
 
 ## Current Roles
 
-**AI Engineer** at [ZMP Inc](https://www.zmp.co.jp/) Tokyo, Japan; Developing and deploying deep learning models for Computer Vision for tasks such as Visual Inspection in Manufacturing, Ego vehicle awareness in self driving cars, Anomaly detection in sensor data, 3D object recognition from images and Satellite image analysis.
+**AI Engineer** at [Elix Inc](https://www.elix-inc.com/) Tokyo, Japan; Developing and deploying deep learning models for Computer Vision for tasks such as Visual Inspection in Manufacturing, Ego vehicle awareness in self driving cars, Anomaly detection in sensor data, 3D object recognition from images and Satellite image analysis.
 
 **Online Content Creator, and Consultant**; Delivering [Videos](https://www.youtube.com/channel/UCdNgkkleUb_npdGLgzzh_2g) and [Podcasts](https://anchor.fm/joshua-owoyemi) focusing on Technology and Education.
 
