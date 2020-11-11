@@ -16,7 +16,9 @@ google_analytics: UA-93933771-1
 bing_verify: C0CB371ACFA5EFD6FB47169BFFBA8217
 
 plugins:
-  — jekyll-feed
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # collections:
 #   authors:
