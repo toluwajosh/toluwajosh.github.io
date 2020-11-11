@@ -15,5 +15,8 @@ google_analytics: UA-93933771-1
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify: C0CB371ACFA5EFD6FB47169BFFBA8217
 
+plugins:
+  — jekyll-feed
+
 # collections:
 #   authors:
