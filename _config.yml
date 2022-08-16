@@ -1,9 +1,7 @@
 title: Joshua Owoyemi
-description: PhD, Perception and Deep Learning Engineer.
+description: PhD, Consultant and Data Scientist.
 show_downloads: false
-google_analytics:
 theme: jekyll-theme-slate
-
 
 disqus:
   shortname: https-toluwajosh-github-io-1
@@ -11,7 +9,7 @@ disqus:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-93933771-1
-# google_verify:      
+# google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify: C0CB371ACFA5EFD6FB47169BFFBA8217
 
@@ -19,6 +17,5 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-
 # collections:
 #   authors:
